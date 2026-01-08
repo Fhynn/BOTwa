@@ -1,0 +1,146 @@
+[
+  {
+    "produk": 1,
+    "nama": "NETFLIX 1p1u",
+    "harga": 25000,
+    "stok": 10
+  },
+  {
+    "produk": 2,
+    "nama": "NETFLIX 1p2u",
+    "harga": 20000,
+    "stok": 10
+  },
+  {
+    "produk": 3,
+    "nama": "CANVA INVIT 1B",
+    "harga": 3000,
+    "stok": 10
+  },
+  {
+    "produk": 4,
+    "nama": "CANVA LIFETIME",
+    "harga": 50000,
+    "stok": 10
+  },
+  {
+    "produk": 5,
+    "nama": "CHATGPT INVIT TEAMS 1B",
+    "harga": 10000,
+    "stok": 10
+  },
+  {
+    "produk": 6,
+    "nama": "CHATGPT 2 TAHUN TEAMS",
+    "harga": 200,
+    "stok": 5
+  },
+  {
+    "produk": 7,
+    "nama": "ALIGHT MOTION 1 THN",
+    "harga": 15000,
+    "stok": 10
+  },
+  {
+    "produk": 8,
+    "nama": "CAPCUT 1B PRIVATE",
+    "harga": 25000,
+    "stok": 10
+  },
+  {
+    "produk": 9,
+    "nama": "CAPCUT SHAR 1B",
+    "harga": 7000,
+    "stok": 10
+  },
+  {
+    "produk": 10,
+    "nama": "PRIME VIDEO 1B",
+    "harga": 15000,
+    "stok": 10
+  },
+  {
+    "produk": 11,
+    "nama": "VIDIO PLAT ALL DEVICE 1B",
+    "harga": 35000,
+    "stok": 10
+  },
+  {
+    "produk": 12,
+    "nama": "VIDIO PLAT KHUSUS MOBILE 1B",
+    "harga": 20000,
+    "stok": 10
+  },
+  {
+    "produk": 13,
+    "nama": "VIDIO 1 TAHUN ONLY TV",
+    "harga": 25000,
+    "stok": 10
+  },
+  {
+    "produk": 14,
+    "nama": "PICSART 1 TAHUN",
+    "harga": 25000,
+    "stok": 10
+  },
+  {
+    "produk": 15,
+    "nama": "PICSART 1B",
+    "harga": 6000,
+    "stok": 8
+  },
+  {
+    "produk": 16,
+    "nama": "DISNEY+HOTSTAR SHAR 7 DAY",
+    "harga": 20000,
+    "stok": 10
+  },
+  {
+    "produk": 17,
+    "nama": "DISNEY+HOTSTAR 1B 3U",
+    "harga": 55000,
+    "stok": 10
+  },
+  {
+    "produk": 18,
+    "nama": "VIU 1 TAHUN PRIVAT",
+    "harga": 15000,
+    "stok": 100
+  },
+  {
+    "produk": 19,
+    "nama": "YOUTUBE VIA INVITE 1B",
+    "harga": 5000,
+    "stok": 10
+  },
+  {
+    "produk": 20,
+    "nama": "BSTATION 1B",
+    "harga": 10000,
+    "stok": 10
+  },
+  {
+    "produk": 21,
+    "nama": "BSTATION 3B",
+    "harga": 25000,
+    "stok": 10
+  },
+  {
+    "produk": 22,
+    "nama": "BSTATION 1TAHUN",
+    "harga": 40000,
+    "stok": 10
+  },
+  {
+    "produk": 23,
+    "nama": "BSTATION PRIVATE 1B",
+    "harga": 45000,
+    "stok": 10
+  },
+  {
+    "produk": 24,
+    "nama": "NETFLIX SEMI PRIVATE 1B",
+    "harga": 50000,
+    "stok": 10
+  }
+]
