@@ -1,0 +1,151 @@
+//═══════════════════════════════════════════════//
+//           🚀 Alice Assistent - Bot WhatsApp Canggih           //
+//═══════════════════════════════════════════════//
+//
+//   🤖 Powered By XyrooRynzz
+//   © XyrooRynzz 2022 - 2026
+//
+//   📌 Source & Official Contact:
+//   ➤ Telegram : t.me/XyrooRynzz
+//   ➤ Gmail    : xyroorynzz@gmail.com
+//   ➤ Github   : github.com/xyroorynzz
+//
+//   📢 Telegram Channels:
+//   ➤ Utama : t.me/xyrooinformations
+//   ➤ Testi : t.me/xyrootestimoni
+//
+//───────────────────────────────────────────────//
+// 📖 PANDUAN MEMBACA FILE README.MD
+//───────────────────────────────────────────────//
+//
+//   📂 File readme.md berisi panduan lengkap:
+//   • Cara menjalankan script Alice Assistent
+//   • Aturan & informasi penting
+//   • File yang boleh/tidak boleh diubah
+//   • Kontak & promo resmi dari XyrooRynzz
+//
+//   💡 Cara membacanya:
+//   1. Buka panel / file manager kalian
+//   2. Masuk ke direktori utama script
+//   3. Klik file "readme.md"
+//   4. Pilih "View" atau "Edit" untuk melihat isi panduan
+//
+//   🧠 Disarankan membaca readme.md terlebih dahulu
+//   sebelum menjalankan atau mengedit script.
+//
+//───────────────────────────────────────────────//
+//
+//   ⚡ Fast • Secure • Automated • Stylish ⚡
+//
+//═══════════════════════════════════════════════//
+//
+// 📈━━━━━━━━━━━━━━━━━━━ [ © XyrooRynzz ] ━━━━━━━━━━━━━━━━━━━📉//
+
+🎉✨ UPDATE TERBARU V16 ✨🎉
+📅 10 november 2025
+🌐 Base XyrooRynzz | 🤖 Powered By Alice Assistant
+© 2022 - 2026
+
+📌 Official Contact
+✈️ Telegram : https://t.me/XyrooRynzz
+📦 Channel Tele : https://t.me/xyrooinformations
+📦 Channel WA : https://whatsapp.com/channel/0029Vb7M7jAIXnlhLZxpWT3K
+
+══════════════════
+
+🚀 Perubahan & Pembaruan Utama
+• autosholat
+• menghapus connection telegram
+• mengganti sebagian api alice ke api lain
+• menambahkan button di fitur totalfitur
+• update baileys terbaru agar support tagswgroup dan button quickreply
+• update clean system otomatis agar file penting tidak terhapus
+• rename gampang, hanya 1 file yaitu AliceSet.js
+• add system total user pengguna bot
+• menghapus reply anti media
+• menambah autovn di fitur autoai
+• memisahkan welcome dan left ke file AliceLibray/welcomeleft.js
+• memperbaiki semua firur voice tokoh, michie, dan alice jadi 1 fitur yaitu .voice
+
+══════════════════
+
+🌟 Penambahan Fitur Baru
+
+- ai menu
+• autoai
+
+- owner menu
+• playch
+
+- group menu
+• swgroup
+
+- games menu
+• susunkata
+• asahotak
+• tebak game
+• tebak gambar
+
+- tools menu
+• text2img
+• text2ghibli
+• text2pixel
+• text2anime
+
+- premium menu
+• tofigure
+• toanime
+• tochibi
+• toghibli
+• tojepang
+• tohijab
+• tomirror
+• topacar
+• toreal
+• totua
+• totato
+• toblur
+• tovintage
+• tozombie
+• telanjangin
+• removeclothes
+
+══════════════════
+
+🗑️ Fitur yang Dihapus
+
+- premium menu
+• tobotak
+• toblack
+• togreenpink
+• editimage
+• deepfake
+
+══════════════════
+
+🔧 Perbaikan Fitur Lama
+
+- ai menu
+• ai
+
+- islami menu
+• jadwalsholat
+
+- search menu
+• pinterest
+
+- downloader menu
+• ytmp4
+
+- convert menu
+• tourl
+• bratvideo
+
+- premium menu
+• removebg
+• img2video
+
+══════════════════
+
+⚡ Powered By Alice Assistant
+© XyrooRynzz 2025
