@@ -60,6 +60,7 @@ const colors = require('@colors/colors/safe')
 const { color } = require('./AliceLibray/color');
 const fetch = require('node-fetch');
 const { say } = require('cfonts')
+const qrcode = require('qrcode-terminal')
 const _ = require('lodash')
 const { JooModss } = require('joo-scriptku/lib/shield');
 const { createCanvas, loadImage } = require('canvas')
@@ -69,7 +70,7 @@ const PhoneNumber = require('awesome-phonenumber')
 const { imageToWebp, imageToWebp3, videoToWebp, writeExifImg, writeExifImgAV, writeExifVid } = require('./AliceLibray/exif')
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep, reSize } = require('./AliceLibray/myfunction')
 
-const usePairingCode = true
+const usePairingCode = false
   const question = (text) => {
     const rl = readline.createInterface({
       input: process.stdin,
@@ -154,7 +155,7 @@ async function AliceConnect() {
   // Ambil versi terbaru WhatsApp Web
   const { version, isLatest } = await fetchLatestWaWebVersion();
 
-  const usePairingCode = true;
+  const usePairingCode = false;
 
   const Alice = makeWASocket({
     logger: pino({ level: "silent" }),
@@ -887,6 +888,12 @@ Alice.serializeM = (m) => smsg(Alice, m, store)
 Alice.ev.on("connection.update", async (update) => {
   const { connection, lastDisconnect } = update;
 
+  if (update.qr) {
+    qrcode.generate(update.qr, { small: true });
+    console.log('Scan QR di atas dengan WhatsApp');
+  }
+
+
   if (connection === "close") {
     let reason = new Boom(lastDisconnect?.error)?.output.statusCode;
 
@@ -969,4 +976,9 @@ AliceConnect();
 // Credit : XyrooRynzz
 //📈————————————————————————— [ © XyrooRynzz ] —————————————————————————📉\\
 //📈————————————————————————— [ © XyrooRynzz ] —————————————————————————📉\\
+
+
+
+
+
 

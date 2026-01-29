@@ -803,6 +803,11 @@
       "limit": 10,
       "exp": 0,
       "coin": 0
+    },
+    "120363261894231901@newsletter": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 0
     }
   },
   "chats": {
@@ -919,7 +924,7 @@
     },
     "6289635560147@s.whatsapp.net": {
       "totalChat": {
-        "6289635560147@s.whatsapp.net": 594
+        "6289635560147@s.whatsapp.net": 598
       },
       "antibot": false,
       "antiviewonce": false,
@@ -2017,7 +2022,7 @@
     },
     "93788832982@s.whatsapp.net": {
       "totalChat": {
-        "93788832982@s.whatsapp.net": 14
+        "93788832982@s.whatsapp.net": 15
       },
       "antibot": false,
       "antiviewonce": false,
@@ -2690,6 +2695,30 @@
       "antilinkgc": false,
       "antilinkkick": false,
       "antipromotion": false
+    },
+    "120363261894231901@newsletter": {
+      "totalChat": {
+        "120363261894231901@newsletter": 1
+      },
+      "antibot": false,
+      "antiviewonce": false,
+      "media": false,
+      "antiimage": false,
+      "video": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilinkgc": false,
+      "antilinkkick": false,
+      "antipromotion": false
+    },
+    "6282268807135@s.whatsapp.net": {
+      "totalChat": {
+        "6282268807135@s.whatsapp.net": 4
+      }
     }
   },
   "settings": {
@@ -2733,6 +2762,13 @@
       "autoread": false
     },
     "6285119016078:64@s.whatsapp.net": {
+      "status": 0,
+      "autoTyping": false,
+      "autoRecord": false,
+      "setPrefix": "one",
+      "autoread": false
+    },
+    "6282268807135:21@s.whatsapp.net": {
       "status": 0,
       "autoTyping": false,
       "autoRecord": false,

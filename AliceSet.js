@@ -92,7 +92,7 @@ global.packname = 'ᴘowᴇʀᴇᴅ ʙʏ ᴀʟιcᴇ ᴀsιsтᴇɴт 🤖'
 global.author = '© ALFHIN HIDAYAT'
 //≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠\\
 // Set bot
-global.AliceBot = '6285119016078'
+global.AliceBot = '6282268807135' //nomor bot
 global.pairing = 'ALICEV16' //set pair
 global.botname = 'Alice Asistent'
 global.version = '16.0.0'
